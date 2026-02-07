@@ -28,5 +28,5 @@
 ### Let's Connect!
 
 📧 [akinahom.wabella@outlook.com](mailto:akinahom.wabella@outlook.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourname)  
+💼 [LinkedIn](https://linkedin.com/in/akinahomwabella)  
 🌐 [Portfolio](https://your-site.com)

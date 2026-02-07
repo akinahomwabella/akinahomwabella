@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="typing.gif" width="500" />
+</p>
+
 # Hi, I'm Akinahom Wabella 👋
 
 🎓 Statistics with CS minor 

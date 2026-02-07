@@ -2,7 +2,17 @@
 
 🎓 Statistics with CS minor 
 
-🚀 Interested in **Data Science**, **Machine Learning**, and **Building projects**
+   Interested in **Data Science**, **Machine Learning**, and **Building projects**
+
+ ### 📌 Previously Worked On
+
+- **FairXAI** – Fairness-aware ML pipeline for bias detection, mitigation, and explanation using SHAP, LIME, and reweighting.  
+- **MentorMatchAI** – Predictive system for mentor–mentee success, built for the MinneMUDAC 2025 data challenge.  
+- **Market Forecast** – Time-series forecasting combining stock trends with NLP-based sentiment signals.  
+- **Deep Fake Detection** – CNN-LSTM model for real-time deepfake detection with Grad-CAM interpretability.  
+- **Data Imputation & Numerical Analysis** – Advanced imputation and feature engineering methods to improve data quality and model performance.
+
+   
 
 🧠 Currently:
 - Building cashflow forecasting & behavioral state inference systems

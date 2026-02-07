@@ -18,7 +18,7 @@
 
    
 
-  Currently:
+📌 Currently:
 - Building cashflow forecasting & behavioral state inference systems
 - Learning Bayesian methods, causal inference, and neural-symbolic AI
 

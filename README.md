@@ -1,6 +1,6 @@
 # Hi, I'm Akinahom Wabella 👋
 
-🎓 Statistics with CS minor |
+🎓 Statistics with CS minor 
 
 🚀 Interested in **Data Science**, **Machine Learning**, and **Building projects**
 
@@ -29,4 +29,4 @@
 
 📧 [akinahom.wabella@outlook.com](mailto:akinahom.wabella@outlook.com)  
 💼 [LinkedIn](https://linkedin.com/in/akinahomwabella)  
-🌐 [Portfolio](https://your-site.com)
+

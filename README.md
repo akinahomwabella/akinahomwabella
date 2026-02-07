@@ -4,7 +4,7 @@
 
    Interested in **Data Science**, **Machine Learning**, and **Building projects**
 
- # 📌 Previously Worked On
+📌 Previously Worked On
 
 - **FairXAI** – Fairness-aware ML pipeline for bias detection, mitigation, and explanation using SHAP, LIME, and reweighting.  
 - **MentorMatchAI** – Predictive system for mentor–mentee success, built for the MinneMUDAC 2025 data challenge.  
@@ -14,7 +14,7 @@
 
    
 
-#  Currently:
+  Currently:
 - Building cashflow forecasting & behavioral state inference systems
 - Learning Bayesian methods, causal inference, and neural-symbolic AI
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="typing.gif" width="500" />
+  <img src="DB45E1CF-94B6-47D4-9458-733E00FDB9A8.GIF" width="500" />
 </p>
 
 # Hi, I'm Akinahom Wabella 👋

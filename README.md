@@ -2,7 +2,7 @@
   <img src="DB45E1CF-94B6-47D4-9458-733E00FDB9A8.GIF" width="500" />
 </p>
 
-# Hi, I'm Akinahom Wabella 👋
+# Hi, My name is Akinahom Wabella 👋
 
 🎓 Statistics with CS minor 
 

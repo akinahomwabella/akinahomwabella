@@ -4,7 +4,7 @@
 
 # Hi, My name is Akinahom Wabella 👋
 
-🎓 Statistics with CS minor 
+🎓 Statistics & CS student
 
    Interested in **Data Science**, **Machine Learning**, and **Building projects**
 

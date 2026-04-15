@@ -6,7 +6,7 @@
 
 🎓 Statistics & CS student
 
-   Interested in **Data Science**, **Machine Learning**, and **Building projects**
+   Interested in **Quant**, **Data Science**, **Machine Learning**
 
 📌 Previously Worked On
 
